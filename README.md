@@ -14,3 +14,14 @@ FUNÇÕES DO PROGRAMA:
 
 
 OBS: QUANDO FIZER QUALQUER ALTERAÇÃO COMO AGRUPAR ITENS OU ADICIONAR OBSERVAÇÕES, SERÃO GERADOS ARQUIVOS XML, E .JSON NA PASTA DO SCRIPT, ELES ORGANIZAM AS ALTERAÇÕES E SALVAM PARA VOCÊ, NÃO APAGUE, SE APAGAR PERDE TUDO.
+
+<img width="643" height="260" alt="image" src="https://github.com/user-attachments/assets/4af8676d-7203-45a5-944d-69298adc297f" />
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/0bdf0de9-3c67-4878-952a-b208d041f0c4" />
+
+<img width="814" height="275" alt="image" src="https://github.com/user-attachments/assets/ce6ba550-c614-453c-beac-9f1a7db0232f" />
+
+<img width="1918" height="873" alt="image" src="https://github.com/user-attachments/assets/dcce1c34-4735-4acf-b0c1-3139ca5af245" />
+
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/4181d07b-4912-42e5-9f5a-41503a58ebc0" />
+
