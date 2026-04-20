@@ -9,7 +9,7 @@ def resource_path(relative_path):
     return os.path.join(base_path, relative_path)
 import json
 import ctypes
-ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID("anderson92tvrips")
+ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID("Ia_List_Creator")
 import xml.etree.ElementTree as ET
 from PyQt6.QtGui import QIcon
 from PyQt6.QtWidgets import QMessageBox
@@ -34,7 +34,7 @@ def show_license_popup():
     msg.setWindowTitle("Aviso")
     msg.setIcon(QMessageBox.Icon.Information)
     msg.setText(
-        "Programa criado e distribuído por: Anderson92Silva\n\n"
+        "Programa criado e distribuído por: IA_List_Creatos\n\n"
         "O uso deste software é livre, o autor permite download, "
         "compartilhamento e qualquer tipo de uso não comercial.\n\n"
         "Se você pagou por ele foi roubado!"
